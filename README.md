@@ -1,2 +1,1 @@
-# Lectura_Ficheros_Texto_Binarios_Python
- Lectura de ficheros de texto y binarios con Python
+Cómo leer el contenido de ficheros de texto y binarios con Python. Usaremos la función open() de Python y mostraremos varios ejemplos de lectura de ficheros. Usamos captura de errores para mostrar, de forma controlada, un posible error en la apertura del fichero. Para los ficheros binarios, desarrollamos un script Python de ejemplo para leer y mostrar los 200 primeros bytes y otro para mostrar los 200 últimos bytes. Más información en: https://proyectoa.com/lectura-de-ficheros-de-texto-y-binarios-con-python/
